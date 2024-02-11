@@ -5,16 +5,16 @@ func IsValidSubsequence(array []int, sequence []int) bool {
 		return false
 	}
 
-    var pointer int
-    for _, num := range array {
-        if pointer == len(sequence) {
-            break
-        }
-        
-        if num == sequence[pointer] {
-            pointer += 1
-        }
-    }
-
-    return pointer == len(sequence)
+	var pointer int
+	for _, num := range array {
+		if pointer == len(sequence) {
+			break
+		}
+		
+		if num == sequence[pointer] {
+			pointer += 1
+		}
+	}
+	
+	return pointer == len(sequence)
 }
