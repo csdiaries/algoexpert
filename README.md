@@ -9,5 +9,7 @@
 🟢 [Node Depths](https://www.algoexpert.io/questions/node-depths) - [solution](https://github.com/csdiaries/algoexpert/blob/main/easy/node-depths.go)  
 
 ## Medium
-🔵 [Binary Tree Diameter](https://www.algoexpert.io/questions/binary-tree-diameter) - [solution](https://github.com/csdiaries/algoexpert/blob/main/medium/binary-tree-diameter.go)      
+🔵 [Binary Tree Diameter](https://www.algoexpert.io/questions/binary-tree-diameter) - [solution](https://github.com/csdiaries/algoexpert/blob/main/medium/binary-tree-diameter.go)    
+🔵 [Symmetrical Tree](https://www.algoexpert.io/questions/symmetrical-tree) - [solution](https://github.com/csdiaries/algoexpert/blob/main/medium/symmetrical-tree.go)    
+    
 
